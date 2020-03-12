@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Introduction
 ============
 
@@ -113,3 +114,7 @@ Image Credits
 [Unsplash](https://unsplash.com/)
 
 [Uifaces](http://uifaces.com/)
+=======
+# AdminLTE-360-Template
+Template AdminLTE-360 SGO
+>>>>>>> 37fa60a98d84dd2f917c1a3b84bb9ef91b66c0d0
