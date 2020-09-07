@@ -404,3 +404,13 @@ button, input {
   line-height: 70px;
   font-size: 1.3rem;
 }
+
+.layout-navbar-fixed .wrapper .sidebar-custom-white .brand-link:not([class*=navbar]){background-color:#f5f5f5;}
+
+
+
+    .sidebar-open .main-sidebar, .sidebar-open .main-sidebar::before {
+    margin-left: 0;
+    background-color: #fff;
+}
+}
